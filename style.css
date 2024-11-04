@@ -17,7 +17,7 @@
     --main-color: #0ea9c1;
     --header-color: #2F4F4F;
 }
-
+/*Navigation bar*/
 html {
     font-size: 62.5%;
     overflow-x: hidden;
@@ -82,7 +82,7 @@ section {
 #check {
     display: none;
 }
-
+/*Home Page*/
 .icons {
     position: absolute;
     right: 5%;
@@ -194,7 +194,7 @@ span {
     color: var(--main-color);
 }
 
-/* /About css/ */
+/* About css */
 
 .about {
     display: flex;
@@ -243,7 +243,7 @@ span {
     margin: 2rem 0 3rem;
 }
 
-/* /Project page code/ */
+/* Project page code */
 
 .project h2 {
     text-align: center;
@@ -375,7 +375,7 @@ textarea:required:invalid~.btn {
 }
 
 
-/* /footer code/ */
+/* footer code */
 
 .footer {
     position: relative;
@@ -420,7 +420,7 @@ textarea:required:invalid~.btn {
     color: var(--text-color);
 }
 
-/* /Responsive Code/ */
+/* Responsive Code */
 
 @media(max-width:1200px) {
     html {
